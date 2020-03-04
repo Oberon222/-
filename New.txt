@@ -2,3 +2,5 @@ gbfg
 xxdfg zxfg 
 
 asdf 
+.vs
+Debug
